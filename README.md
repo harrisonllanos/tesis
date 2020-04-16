@@ -1,1 +1,1 @@
-# tesis
+# Tesis de grado Salud Ocupacional
